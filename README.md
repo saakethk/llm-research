@@ -1,2 +1,2 @@
-# map-research
-A repository where I learn MCP and test things out.
+# llm-research
+This is a repository of all my LLM research. So that I can continue to learn about current and trending technologies relating to the subject.
