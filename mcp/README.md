@@ -23,6 +23,8 @@ MCP Servers can be hosted on serverless environments in addition to container li
 ### FastMCP
 Python framework for building MCP applciations. Can be hosted on [Prefect](https://www.prefect.io/pricing?plan=start)
 
+Deployment guide: (Guide)[https://gofastmcp.com/deployment/http]
+
 ## Key Terminology
 - Primitives
     - Tools: Function that can be called by AI
